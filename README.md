@@ -9,7 +9,6 @@ Die **BHT-Kompass App** ist eine mobile Anwendung für Studierende und Interessi
 - [📲 Installation](#-installation)
 - [🛠️ Technologien](#-technologien)
 - [📖 Nutzung](#-nutzung)
-- [🖼️ Screenshots](#-screenshots)
 - [🔄 Mitwirken](#-mitwirken)
 - [📄 Lizenz](#-lizenz)
 
@@ -62,11 +61,6 @@ Die **BHT-Kompass App** ist eine mobile Anwendung für Studierende und Interessi
 3. **Interaktive Karte nutzen** – Finde deinen Weg an der Hochschule  
 4. **Events durchsuchen** – Sieh dir bevorstehende Veranstaltungen an  
 5. **Rauminformationen abrufen** – Prüfe, welche Räume frei oder belegt sind  
-
----
-
-## 🖼️ Screenshots
-*(Hier können Screenshots der App eingefügt werden, falls vorhanden.)*
 
 ---
 
