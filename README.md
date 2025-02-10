@@ -1,44 +1,105 @@
-# BHT-Kompass App
+# 📍 BHT-Kompass App
 
+Die **BHT-Kompass App** ist eine mobile Anwendung für Studierende und Interessierte der Berliner Hochschule für Technik (BHT). Sie erleichtert die Orientierung auf dem Campus, bietet einen schnellen Zugang zu relevanten Informationen und verbessert die Navigation innerhalb der Hochschule.
 
-## Projektname
-BHT-Kompass
+---
 
-## Mitwirkende
-Onur Nergis, Seyma Karakurt ,Furkan Günes, Tarik Aksoy, Osman Özkan
+## 📌 Inhaltsverzeichnis
+- [🚀 Features](#-features)
+- [📲 Installation](#-installation)
+- [🛠️ Technologien](#-technologien)
+- [📖 Nutzung](#-nutzung)
+- [🖼️ Screenshots](#-screenshots)
+- [🔄 Mitwirken](#-mitwirken)
+- [📄 Lizenz](#-lizenz)
 
-## Projektbeschreibung
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+---
 
-Wir haben nach langem hin und her uns entschieden eine Applikation für Android 
-Smartphones zu entwickeln. Unsere App heißt BHT-Kompass (vorläufig) wie der 
-Name schon sagt soll die App für die BHT sein.
-Die Idee ist, dass den Studierenden an der Berliner Hochschule eine App zur 
-Verfügung gestellt werden sollen, in der es ihnen möglich ist, sich in der Hochschule 
-zu orientieren, Räume schneller finden zu können sowie weitere Funktionalitäten zu 
-nutzen, die ihnen den Alltag an der Hochschule erleichtern werden. Dabei soll es 
-ihnen möglich sein, sich an der Hochschule zu orientieren, Räume zu finden und 
-diverse Aktionen in unserer App zu bearbeiten/benutzen.
-Bspw. Benutzen wir den Stundenplan der BHT als ein Bild innerhalb meiner Foto-Galerie dies soll die App in verbesserter Funktion ablösen.
-Der Student soll mittels der App seinen Stundenplan sehen und die dazugehörige 
-Räume anzeigen lassen.
-Eine Modellierung der BHT, Belegpläne, Ausstattungen der einzelnen Räume und 
-weitere Funktionen die wir im Laufe der Zeit implementieren möchten, gehören zu 
-unserer App.
-Ziel unserer Applikation ist es, eine App zu programmieren, welche es Studenten 
-ermöglicht, sich an unserem Campus besser zu orientieren.
-Dabei ist ein Kernpunkt der App: Zielfindung der Räume, Raumausstattung
-(Projektor, Steckdosen, usw.) , eigenen Stundenplan in der App anzeigen, mittels 
-eines möglichen Logins. Eventuell ist in Planung, die App so zu programmieren, dass 
-der Student beispielsweise 30 min. vor SU Beginn eine Benachrichtigung auf dem 
-Handy bekommt, sprich als Erinnerung zum anstehenden Unterricht. Somit kann 
-auch eventuell vermieden werden, dass Studenten zu spät zu Ihren Unterrichten 
-kommen.
+## 🚀 Features
+✔️ **Campus-Navigation** – Finde Gebäude, Hörsäle und Labore auf dem BHT-Gelände  
+✔️ **Veranstaltungsfinder** – Suche nach Vorlesungen und Events an der Hochschule  
+✔️ **Raumfinder** – Prüfe, welche Räume verfügbar sind und wo sich diese befinden  
+✔️ **Interaktive Karte** – Nutze eine visuelle Karte zur besseren Orientierung  
+✔️ **Hochschul-News** – Erhalte aktuelle Informationen und Ankündigungen  
 
-## Anwendungsszenarien
-Die Applikation (BHT-Kompass) ist dazu gedacht das Studenten es an unserem Campus verwenden können.
-Studenten können mittels der App sich an der BHT orientieren und schnellstmöglich die Räume zu deren aktuellen
-Modulen finden.
+---
 
-Studenten können schnell und einfach Stundenpläne hinzufügen, editieren und damit interagieren.
+## 📲 Installation
 
+### 🔹 Voraussetzungen:
+- **Android Studio** (Falls du die App lokal testen möchtest)
+- **Android SDK**
+- **Gradle**
+- **Java 8 oder höher**
+
+### 🔹 Schritte zur Installation:
+1. **Repository klonen:**  
+   ```bash
+   git clone https://github.com/Seymakarakurt/BHT-KompassApp.git
+   ```
+2. **In Android Studio öffnen:**  
+   - Klicke auf **"File" → "Open"** und wähle den Ordner `BHT-KompassApp` aus.
+3. **Gradle-Projekt synchronisieren:**  
+   - Falls nötig, lade die benötigten Abhängigkeiten nach.
+4. **App auf einem Emulator oder Smartphone starten:**  
+   - Wähle ein Android-Gerät aus und klicke auf "Run".
+
+---
+
+## 🛠️ Technologien
+| Technologie | Beschreibung |
+|------------|-------------|
+| **Android (Java/Kotlin)** | Native App-Entwicklung |
+| **Gradle** | Build-Management |
+| **Google Maps API** | Standort- und Kartenfunktionen |
+| **Firebase** | Backend-Services (falls integriert) |
+
+---
+
+## 📖 Nutzung
+1. **App starten** – Öffne die BHT-Kompass App auf deinem Smartphone  
+2. **Navigation** – Suche nach Räumen, Vorlesungen oder Veranstaltungen  
+3. **Interaktive Karte nutzen** – Finde deinen Weg an der Hochschule  
+4. **Events durchsuchen** – Sieh dir bevorstehende Veranstaltungen an  
+5. **Rauminformationen abrufen** – Prüfe, welche Räume frei oder belegt sind  
+
+---
+
+## 🖼️ Screenshots
+*(Hier können Screenshots der App eingefügt werden, falls vorhanden.)*
+
+---
+
+## 🔄 Mitwirken
+
+💡 **Du möchtest helfen?** Super! Folge diesen Schritten, um beizutragen:
+
+1. **Forke das Repository**
+2. **Erstelle einen neuen Branch:**  
+   ```bash
+   git checkout -b feature-neuer-funktion
+   ```
+3. **Änderungen vornehmen & committen:**  
+   ```bash
+   git commit -m "Neue Funktion hinzugefügt"
+   ```
+4. **Pushen & Pull Request erstellen:**  
+   ```bash
+   git push origin feature-neuer-funktion
+   ```
+
+Alle Beiträge sind willkommen! 🎉
+
+---
+
+## 📄 Lizenz
+Dieses Projekt steht unter der **MIT-Lizenz** – du kannst den Code frei verwenden, verändern und weitergeben. Siehe die Datei [`LICENSE`](./LICENSE) für Details.
+
+---
+
+### 📧 Kontakt & Support
+📌 Falls du Fragen oder Probleme hast, erstelle einfach ein **Issue** oder kontaktiere uns über [GitHub](https://github.com/Seymakarakurt/BHT-KompassApp/issues).  
+
+---
+
+✨ Viel Spaß mit der BHT-Kompass App! 🚀
