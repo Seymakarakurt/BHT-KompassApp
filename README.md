@@ -92,3 +92,5 @@ Alle Beiträge sind willkommen! 🎉
 ---
 
 ✨ Viel Spaß mit der BHT-Kompass App! 🚀
+
+Entwickelt von Seyma Karakurt
