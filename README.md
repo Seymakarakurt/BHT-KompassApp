@@ -86,11 +86,6 @@ Alle Beiträge sind willkommen! 🎉
 
 ---
 
-## 📄 Lizenz
-Dieses Projekt steht unter der **MIT-Lizenz** – du kannst den Code frei verwenden, verändern und weitergeben. Siehe die Datei [`LICENSE`](./LICENSE) für Details.
-
----
-
 ### 📧 Kontakt & Support
 📌 Falls du Fragen oder Probleme hast, erstelle einfach ein **Issue** oder kontaktiere uns über [GitHub](https://github.com/Seymakarakurt/BHT-KompassApp/issues).  
 
